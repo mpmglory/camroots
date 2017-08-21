@@ -1,6 +1,6 @@
 $('footer').html(
     '
-				<div class="container">
+			<div class="container">
 
 					<div class="row">
 						
